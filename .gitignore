@@ -1,0 +1,19 @@
+__pycache__
+.__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode
+
+# Django db:
+db.sqlite3
+# db.sqlite3-journal
+
+# Environments
+venv
+.venv
+venv/
+venv.bak/
+venv.bak/
+
+.env
